@@ -1,7 +1,7 @@
 ---
 layout: about
 permalink: /
-title: Miguel Alfonso Mendez
+title: Miguel Alfonso Mende
 description: <a>von Karman Institute for Fluid Dynamics</a>
 
 profile:
