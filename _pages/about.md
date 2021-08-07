@@ -6,7 +6,7 @@ description: <a>von Karman Institute for Fluid Dynamics</a>
 
 profile:
   align: right
-  image: prof_pic2.jpg
+  image: prof_pic2.JPG
   address: >
     <p> +32.2.3599636(direct)</p>
     <p> +32.2.3599611(reception)</p>
