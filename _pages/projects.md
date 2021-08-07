@@ -8,11 +8,11 @@ nav: true
 
 If you are a master student looking for an internship 
 or master thesis project at the von Karman Institute with my group, please check the list of
-proposed topics [here](https://mendezvki.github.io/assets/pdf/Proposal_STP_Mendez.pdf).
+proposed topics [here](https://mendezvki.github.io/assets/pdf/Proposal_STP_Mendez_2021.pdf).
 For more information on how to apply to the Short Training Program (STP), please check [this](https://www.vki.ac.be/index.php/short-training-program).
 For the Research Master (RM) check [this](https://www.vki.ac.be/index.php/research-master-in-fluid-dynamics). 
 
-PhD Theses (To be Updated)
+PhD Theses 
 ---
 
 - Fiorini, D. (2018-ongoing), Gas-Liquid Interface Dynamics in Non-Isothermal Sloshing: Experimental Analysis and Simplified Modeling, 
@@ -31,34 +31,61 @@ PhD Theses (To be Updated)
   PhD Thesis at UGent,  Ghent University, Belgium, co-supervised with Dr. L. Koloszar, Prof. J. van Beeck and Prof. J. Degroote.
   
   
-Research Master Projects (To be Updated)
+Research Master Projects 
 ---
+
+- New Topics to be defined for the RM2021-2022.
+
+  
+Master Theses 
+---
+
+- Ferreira, D., Experimental Analysis of Dynamic Contact Angles,  co-supervised with D. Fiorini and Prof. José Maria André. Master Thesis at Instituto Superior Técnico de Lisboa, Portugal.
+
+
+
+Previous Projects 
+---
+
+Here's a list of student who have worked with me for their 
+Short Training program (STP), Research Master (RM) or Advanced Research Orientation (ARO).
+
+- Merhaben, C., (STP 2020-2021) Advanced Surrogate Modeling of Gas-Surface Interaction for Hypersonic Re-entry, co-supervised with Dr. A. Turchi and Prof. T. Magin.
+
+- Sperotto, P. (STP 2020-2021) A Meshless Method to Measure Pressure Fields from Image Velocimetry via Radial Basis Functions, co-supervised with Prof. Pieraccini. Master Thesis at Politecnico di Torino, Italy.
+
+- Conti, L., (STP 2020-2021) Analysis of non-linear wave propagation mechanisms in a Mach 3 jet using time-resolved schlieren data and machine-learning techniques, co-supervised with Prof. Schram
+
+- Ivanova, T. (RM 2020-2021), Physics-based and Data-driven Modelling of Nonlinear Waves in Liquid Films. co-supervised with F. Pino.		
+
+- Sala, R. (RM 2020-2021), Nowcasting for wind turbines applications with a machine-learning approach. Co-supervised with Dr. Buckingham.
+
+- Marques, P. (RM 2020-2021), Experimental Characterization and Modeling of non-Isothermal Sloshing. Co-supervised with Ir. Peveroni and Dr. Simonini.
+
+- Van Der Berghe, J. (RM 2020-2021), Transient Analysis of Supersonic Ejectors using 1D Gas Dynamics and Deep Learning. Co-supervised with Dr. Diaz.
+
+- Gkimisis, L. (RM 2020-2021), Data-Driven Modelling for Space Debris Degradation. Co-supervised with Dr. Diaz, Dr. A. Turchi and Prof. T. Magin
+
+- Ratz, M. (STP 2020) Experimental Analysis of the Contact Line Dynamics using Optical Techniques and Inverse Methods, STP2020, co-supervised with Prof. Cierpla. Master Thesis at TU Ilmenau, Germany.
+
+- Deseau, J. (STP 2020) Feedback Control of Liquid Sloshing in Cylindrical Reservoirs, STP2020, co-supervised with Prof. Johan Steelant. Master Thesis at KU Leuven.
+
+- Desmet, M. (STP 2020) Reinforcement Learning for Active Flow Control, co-supervised with F. Pino. STP 2020. 
 
 - Anfuso, E. (RM 2019-2020), An investigation of the dynamics of plasma jet flows using data driven modal analysis
   co-supervised with Simon Demange, Andrea Fagnani, Francisco Torres-Herrador.
 
 - Kovalcsik, A. (RM 2019-2020), Experimental Analysis of Dynamic Contact Lines,
   co-supervised with Domenico Fiorini and Alessia Simonini.
-  
-Master Theses (To be Updated) 
----
 
 - Marques, P.A. (STP 2019-2020), Model-based Scaling Laws for the Non-Isothermal Sloshing Problem,
   co-supervised with Alessia Simonini and Prof. L. Eça. Master Thesis at Instituto Superior Técnico de Lisboa, Portugal.
 
-- Lorenzo, S. (STP 2019-2020), Closed-loop Control via Machine Learning Methods, co-supervised with
-  Fabio Pino and Prof. Pieraccini. Master Thesis at Politecnico di Torino, Italy.
+- Lorenzo, S. (STP 2019-2020), Implementation and Comparative Analysis of Machine Learning methods for the closed-loop control of fluid flows,
+  co-supervised with Fabio Pino and Prof. Pieraccini. Master Thesis at Politecnico di Torino, Italy.
 
 - van den Berghe, J. (STP 2019-2020), Neural Network Models of Turbulent Wall Pressure Spectra, co-supervised with
   Joachim Dominique and Prof. M. Runacres. Master Thesis at Vrije Universiteit Brusse, Belgium.
-
-  
-Previous Projects (To be Updated)
----
-
-Here's a list of student who have worked with me for their 
-Short Training program (STP), Research Master (RM) or Advanced Research Orientation (ARO).
-
 
 - Theo, K, Implementation of iterative Multigrid and Window Deformation Schemes 
    in the OpenPIV Python Package (STP), VKI SR 2020-05.
