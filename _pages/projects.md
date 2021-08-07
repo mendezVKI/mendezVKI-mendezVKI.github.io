@@ -42,6 +42,7 @@ Master Theses
 
 - Ferreira, D., Experimental Analysis of Dynamic Contact Angles,  co-supervised with D. Fiorini and Prof. José Maria André. Master Thesis at Instituto Superior Técnico de Lisboa, Portugal.
 
+- Palmarini, A., Magnetohydrodynamics of Liquid Films on a Moving Substrate,  co-supervised with F. Pino and Prof. Pieraccini. Master Thesis at Politecnico di Torino, Italy.
 
 
 Previous Projects 
