@@ -48,8 +48,7 @@ Master Theses
 Previous Projects 
 ---
 
-Here's a list of student who have worked with me for their 
-Short Training program (STP), Research Master (RM) or Advanced Research Orientation (ARO).
+Here's a list of student who have worked with me for their Short Training program (STP), Research Master (RM) or Advanced Research Orientation (ARO).
 
 - Merhaben, C., (STP 2020-2021) Advanced Surrogate Modeling of Gas-Surface Interaction for Hypersonic Re-entry, co-supervised with Dr. A. Turchi and Prof. T. Magin.
 

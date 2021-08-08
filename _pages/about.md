@@ -26,6 +26,6 @@ Hello! I am Miguel Alfonso Mendez and  I am an Assistant Professor
  data-driven modal analysis, flow control, inverse problems, and machine 
  learning.
 
-Currently, I am supervising several Ph.D. theses in these fields and developing 
-two courses. This website collects some material about my courses,
-upcoming events, ongoing projects, and publications.
+Currently, I am supervising several Ph.D. theses in these fields and I am developing 
+two courses courses dedicated to machine learning for fluid mechanics. 
+This website collects some material about my courses, upcoming events, ongoing projects, and publications.
