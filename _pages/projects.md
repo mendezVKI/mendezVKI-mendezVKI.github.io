@@ -55,7 +55,7 @@ Short Training program (STP), Research Master (RM) or Advanced Research Orientat
 
 - Sperotto, P. (STP 2020-2021) A Meshless Method to Measure Pressure Fields from Image Velocimetry via Radial Basis Functions, co-supervised with Prof. Pieraccini. Master Thesis at Politecnico di Torino, Italy.
 
-- Conti, L., (STP 2020-2021) Analysis of non-linear wave propagation mechanisms in a Mach 3 jet using time-resolved schlieren data and machine-learning techniques, co-supervised with Prof. Schram
+- Conti, L., (STP 2020-2021) Analysis of non-linear wave propagation mechanisms in a Mach 3 jet using time-resolved schlieren data and machine-learning techniques, co-supervised with Prof. Schram and Prof. Pieraccini. Master Thesis at Politecnico di Torino, Italy.
 
 - Ivanova, T. (RM 2020-2021), Physics-based and Data-driven Modelling of Nonlinear Waves in Liquid Films. co-supervised with F. Pino.		
 
@@ -73,11 +73,9 @@ Short Training program (STP), Research Master (RM) or Advanced Research Orientat
 
 - Desmet, M. (STP 2020) Reinforcement Learning for Active Flow Control, co-supervised with F. Pino. STP 2020. 
 
-- Anfuso, E. (RM 2019-2020), An investigation of the dynamics of plasma jet flows using data driven modal analysis
-  co-supervised with Simon Demange, Andrea Fagnani, Francisco Torres-Herrador.
+- Anfuso, E. (RM 2019-2020), An investigation of the dynamics of plasma jet flows using data driven modal analysis, co-supervised with Simon Demange, Andrea Fagnani, Francisco Torres-Herrador.
 
-- Kovalcsik, A. (RM 2019-2020), Experimental Analysis of Dynamic Contact Lines,
-  co-supervised with Domenico Fiorini and Alessia Simonini.
+- Kovalcsik, A. (RM 2019-2020), Experimental Analysis of Dynamic Contact Lines,  co-supervised with Domenico Fiorini and Alessia Simonini.
 
 - Marques, P.A. (STP 2019-2020), Model-based Scaling Laws for the Non-Isothermal Sloshing Problem,
   co-supervised with Alessia Simonini and Prof. L. Eça. Master Thesis at Instituto Superior Técnico de Lisboa, Portugal.
@@ -86,7 +84,7 @@ Short Training program (STP), Research Master (RM) or Advanced Research Orientat
   co-supervised with Fabio Pino and Prof. Pieraccini. Master Thesis at Politecnico di Torino, Italy.
 
 - van den Berghe, J. (STP 2019-2020), Neural Network Models of Turbulent Wall Pressure Spectra, co-supervised with
-  Joachim Dominique and Prof. M. Runacres. Master Thesis at Vrije Universiteit Brusse, Belgium.
+  Joachim Dominique and Prof. M. Runacres. Master Thesis at Vrije Universiteit Brussel, Belgium.
 
 - Theo, K, Implementation of iterative Multigrid and Window Deformation Schemes 
    in the OpenPIV Python Package (STP), VKI SR 2020-05.
